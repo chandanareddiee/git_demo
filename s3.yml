@@ -33,6 +33,4 @@ Properties:
     VersioningConfiguration
   WebsiteConfiguration: 
     WebsiteConfiguration
-    git add .
-git commit -m "code for creating s3 bucket"
-git push
+    public feature 
